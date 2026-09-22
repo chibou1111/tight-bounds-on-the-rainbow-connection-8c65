@@ -1,0 +1,7 @@
+PDF: papers/1005.1665_directly_estimating_nonclassicality.pdf
+Total pages: 5
+Pages per chunk: 3
+
+Chunks:
+  1005.1665_directly_estimating_nonclassicality_chunk_001.pdf: pages 1-3
+  1005.1665_directly_estimating_nonclassicality_chunk_002.pdf: pages 4-5
